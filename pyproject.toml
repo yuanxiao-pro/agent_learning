@@ -1,0 +1,13 @@
+[project]
+name = "agents-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "hello-agents==0.1.1",
+    "langchain-openai>=1.2.1",
+    "langgraph>=1.1.10",
+    "tavily>=1.1.0",
+]
